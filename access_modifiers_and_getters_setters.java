@@ -1,6 +1,6 @@
 package OOPS_JAVA;
 
-class modifiers {
+    class modifiers {
     private int id;
     private String name;   // we can access  this outside class due to private, so we have to create setters and getters as follows
 
